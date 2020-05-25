@@ -1,0 +1,7 @@
+* {
+  color: white;
+  outline: 1px solid gold;
+  outline-offset: -1px;
+  background-color: #222;
+  /* margin: 0; */
+}
